@@ -1,7 +1,7 @@
 # Site settings
 title: Hundsrule Blog
 SEOTitle: 洪特的博客 | Hundsrule Blog
-header-img: img/headerbg.jpg
+header-img: img/miku2.jpg
 email: wanghongte@outlook.com
 description: "Every failure is leading towards success."
 keyword: "Hundsrule, Hundsrule Blog, 洪特的博客, hundsrule, 洪特"
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+#friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
