@@ -5,7 +5,7 @@ header-img: img/miku2.jpg
 email: wanghongte@outlook.com
 description: "Every failure is leading towards success."
 keyword: "Hundsrule, Hundsrule Blog, 洪特的博客, hundsrule, 洪特"
-url: "http://hundsrule.github.io"          # your host, for absolute URL
+url: "wht.icu"          # your host, for absolute URL
 baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hundsrule/blog" # you code repository
 
