@@ -12,7 +12,7 @@ github_repo: "https://github.com/hundsrule/blog" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "把自己的主动性找回来！"
-sidebar-avatar: hundsrule.github.io/blog/img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/miku1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
