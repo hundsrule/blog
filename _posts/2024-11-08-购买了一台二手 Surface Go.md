@@ -1,7 +1,7 @@
 ---
 layout:     post                       # 使用的布局（不需要改）
 title: 购买了一台Surface Go                       # 标题 
-subtitle:二手便宜货    #副标题
+subtitle: 二手便宜货    #副标题
 date:       2024-11-08                 # 时间
 author:     Hund                        # 作者
 header-img: assets/post/izzy.jpg     #这篇文章标题背景图片
